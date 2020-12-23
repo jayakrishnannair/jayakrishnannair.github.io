@@ -1,0 +1,46 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Shooonya"
+theme = "anubis"
+paginate = 3
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[author]
+  name = "Jayakrishnan Nair"
+
+[params]
+   author = "Jayakrishnan Nair"
+   description = "Technology. Books. Photography"
+   dateFormat = "2006-01-02"
+   paginationSinglePost = true
+   style = "light-without-switcher"
+   readMore = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Archive"
+    identifier = "archive"
+    url = "/posts/"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup.goldmark.renderer]
+unsafe = true
