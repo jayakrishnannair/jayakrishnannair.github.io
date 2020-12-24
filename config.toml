@@ -2,18 +2,27 @@ baseURL = ""
 languageCode = "en-us"
 title = "Shooonya"
 theme = "hugo-kiera"
-paginate = 3
+paginate = 25
+copyright = "Copyright &copy; 2020 - Jayakrishnan Nair"
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
 
 disqusShortname = ""
 googleAnalytics = ""
 
 [author]
   name = "Jayakrishnan Nair"
+  github = "jayakrishnannair"
+  linkedin = "jayakrishnanbnair"
+  twitter = "jnair_dev"
 
 [params]
    author = "Jayakrishnan Nair"
    description = "Technology. Books. Photography"
-   dateFormat = "2006-01-02"
+   tagline = "Technology; Books; Photography"
+   homepageLength=10
    paginationSinglePost = true
    style = "light-without-switcher"
    readMore = false
@@ -38,9 +47,10 @@ googleAnalytics = ""
     url = "/posts/"
     weight = 3
 
-[taxonomies]
-category = "categories"
-tag = "tags"
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories"
+    weight = 4
 
-[markup.goldmark.renderer]
-unsafe = true
+
