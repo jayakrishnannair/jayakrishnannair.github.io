@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Shooonya 2"
+title = "Shooonya"
 theme = "hugo-kiera"
 paginate = 3
 copyright = "Copyright &copy; 2020 - Jayakrishnan Nair"
