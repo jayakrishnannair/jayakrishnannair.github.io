@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Shooonya"
-theme = "anubis"
+theme = "hugo-kiera"
 paginate = 3
 
 disqusShortname = ""
