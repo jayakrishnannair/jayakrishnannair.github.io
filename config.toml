@@ -1,16 +1,22 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Shooonya"
-theme = "anubis"
+theme = "hugo-kiera"
 paginate = 3
+copyright = "Copyright &copy; 2020 - Jayakrishnan Nair"
+canonifyurls = true
 
 disqusShortname = ""
 googleAnalytics = ""
 
 [author]
   name = "Jayakrishnan Nair"
+   github = "jayakrishnannair"
+   linkedin = "jayakrishnanbnair"
+   twitter = "jnair_dev"
 
 [params]
+   tagline = "Technology. Books. Photography"
    author = "Jayakrishnan Nair"
    description = "Technology. Books. Photography"
    dateFormat = "2006-01-02"
