@@ -13,7 +13,7 @@ tags:
   - Deep Work
 
 ---
-<figure id="attachment_84" aria-describedby="caption-attachment-84" style="width: 640px" class="wp-caption aligncenter"><a href="https://i0.wp.com/www.shooonya.org/wp-content/uploads/2017/07/writer-flickr.jpg" target="_blank" rel="https://www.flickr.com/photos/eelkedekker/12327844375/in/photolist-jMnqCX-9kbK-cvxgkW-UsAjQk-dGHpKH-4R6Mnc-4nen3B-aYfzu-4ai5rY-4MEVGU-4oGUHt-bn9dpj-p1ZjBg-ffweA6-fwe53q-9zjvne-rPXpGY-6t4ovi-4xb2RQ-btERMx-btEYhr-fpfZ68-bVKP6A-8mo3RY-73tZef-5h4S3A-8qQjrm-8vjoj8-h7buBi-btEMPa-awGSy-8sTBte-oh4LZN-dvvYYB-7b5ay5-oj4qDw-6UTFSz-fpveEN-pokCA9-6pMCF1-3Lrvs-6nAKMV-91oYWy-9UcfUM-9YVcVc-4X5Xn4-2onMCP-fpveRm-3j29hw-91mYKg noopener"><img loading="lazy" class="wp-image-84 size-full" src="https://i0.wp.com/www.shooonya.org/wp-content/uploads/2017/07/writer-flickr.jpg?resize=640%2C427" alt="" width="640" height="427" data-recalc-dims="1" /></a><figcaption id="caption-attachment-84" class="wp-caption-text">(By Eelke on Flickr)</figcaption></figure> 
+
 
 In an interview on the [AI Podcast,][1]  Andrew Ng predicts that AI would be an essential part of our lives and it is going to transform the world, the way electricity did. A consequence of that is not that Skynet would activate, but many of the existing jobs would disappear. To survive, lifelong learning would become essential. Previously, we could learn something in college and ply trade based on that knowledge for decades. Now we will have to replenish that knowledge constantly.
 
