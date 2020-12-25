@@ -14,7 +14,8 @@ categories:
 
 _Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining_.<figure class="wp-block-image size-large">
 
-<img src="https://i2.wp.com/shooonya-photos-1.s3.amazonaws.com/rainwater.png?ssl=1" alt="" data-recalc-dims="1" /> </figure> 
+![](https://i2.wp.com/shooonya-photos-1.s3.amazonaws.com/rainwater.png?ssl=1)
+
 
 One of the first things you should do in interviews is ask clarifying questions. The first question would be, are you a water management company or a software company? Once the futility has been confirmed, you will ponder about the algorithm. Should I sort? Should I use a stack? Should I use a Priority Queue? Should I jump out of the window?
 
@@ -24,9 +25,8 @@ Mugging these questions is not going to help is because short term memory is lim
 
 Deliberate practice has several characteristics that set it apart from “naive practice,” which is just doing something repeatedly, expecting that the repetition alone will improve one’s performance. Deliberate practice pushes you out of your comfort zone. It also involves feedback. This could come from a teacher or coach or it could come from your experience to monitor and improve. For example, in the trapping the rainwater, if you did not use a two-pointer solution, but a Priority Queue, then you would use that observation as feedback to analyze and improve
 
-<div class="wp-block-image">
-  <figure class="alignleft size-large"><img src="https://i0.wp.com/shooonya-photos-1.s3.amazonaws.com/peak.png?ssl=1" alt="" data-recalc-dims="1" /></figure>
-</div>
+![](https://i0.wp.com/shooonya-photos-1.s3.amazonaws.com/peak.png?ssl=1#float)
+
 
 Some people flunk a lot of coding interviews. After the interview, the question looks simple and often you wonder why you did not come up with the solution. This is not because you are not talented. It is because you did not practice the right way. To see how to learn with deliberate practice, we have look at chess masters. They develop skills by spending countless hours studying games played by the masters. You analyze a position in depth, predicting the next move, and if you get it wrong, you go back and figure out what you missed. Research has shown that the amount of time spent in this sort of analysis—not the amount of time spent playing chess with others—is the single most important predictor of a chess player’s ability.
 
