@@ -15,7 +15,7 @@ tags:
 ---
 I attended the [Velocity Conference][1] in Santa Clara this year and these are few of the takeaways. If an image could summarize the conference, it would be this image from [Scott Hanselman][2]’s Keynote address, [_Virtual Machines, JavaScript and Assembler_][3] which was the most entertaining keynote I have ever heard.<figure id="attachment_4" aria-describedby="caption-attachment-4" style="width: 500px" class="wp-caption aligncenter">
 
-[<img loading="lazy" class="wp-image-4 size-full" src="https://i2.wp.com/www.shooonya.org/wp-content/uploads/2014/08/hanselman.png?resize=500%2C286" alt="hanselman" width="500" height="286" data-recalc-dims="1" />][4]<figcaption id="caption-attachment-4" class="wp-caption-text">(via Scott Hanselman&#8217;s keynote address at Velocity 2014)</figcaption></figure> 
+
 
 There were three main takeaways for me: APM is huge; everyone is into optimizing images and the CDNs are getting smarter.
 

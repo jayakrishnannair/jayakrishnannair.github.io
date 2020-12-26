@@ -11,19 +11,19 @@ categories:
 ---
 Here is the handler code for a slider in XCode 7
 
-<pre>@IBAction func handleSlider(sender: UISlider) {
+    @IBAction func handleSlider(sender: UISlider) {
         var value = sender.value
         print("value \(value) ")
     }
-</pre>
+
 
 If you type in this code, XCode will issue the following warning near the declaration of the _var value_, _Variable &#8216;value&#8217; was never mutated; consider changing to &#8216;let&#8217; constant._ Once you choose that option, the code changes to this and the warning disappears.
 
-<pre>@IBAction func handleSlider(sender: UISlider) {
+    @IBAction func handleSlider(sender: UISlider) {
         let value = sender.value
         print("value \(value) ")
     }
-</pre>
+
 
 Using _let_ instead of _var_ conveys that the variable is immutable. The value is set once and never changed. If you are reading someone else&#8217;s code and encounter _let_, you can be assured that the value of this variable is not changing in the code.
 
@@ -31,12 +31,11 @@ This works for collection classes and arrays as well.  If you use _let_ before 
 
 For example here is a piece of code that will give an error because _someInts_ is declared as immutable
 
-<pre>let someInts = [Int]()
-someInts.append(3)
-</pre>
+    let someInts = [Int]()
+    someInts.append(3)
+
 
 The same is true in this case as well
 
-<pre>let namesOfIntegers = [Int:String]()
-namesOfIntegers[16] = "sixteen"
-</pre>
+    let namesOfIntegers = [Int:String]()
+    namesOfIntegers[16] = "sixteen"

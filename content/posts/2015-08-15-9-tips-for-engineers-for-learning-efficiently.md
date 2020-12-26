@@ -11,14 +11,7 @@ tags:
   - Learning
 
 ---
-<div class="getty embed image" style="background-color: #fff; display: inline-block; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #a7a7a7; font-size: 11px; width: 100%; max-width: 507px;">
-  <div style="overflow: hidden; position: relative; height: 0; padding: 66.666667% 0 0 0; width: 100%;">
-  </div>
-  
-  <div style="padding: 0; margin: 0 0 0 10px; text-align: left;">
-    <a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com/detail/169059924" target="_blank">View image</a> | <a style="color: #a7a7a7; text-decoration: none; font-weight: normal !important; border: none; display: inline-block;" href="http://www.gettyimages.com" target="_blank">gettyimages.com</a>
-  </div>
-</div>
+
 
 In our software engineering careers, we switch jobs and end up working in a new domain. Some domains are easy to learn &#8212; the engineering might be hard &#8212; while others, especially those involving payments or stock exchanges (few areas where I have worked) take time to understand. There is another issue as you progress in your career: when you are fresh out of college, the brain is tuned to learning techniques, but after a few decades of work, you struggle. There is no need to despair. Recently, I took the UCSD course _[Learning How to Learn: Powerful mental tools to help you master tough subjects][1]_ and learned some valuable lessons.
 

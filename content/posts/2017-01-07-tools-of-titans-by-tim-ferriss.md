@@ -8,11 +8,10 @@ categories:
   - Books
 
 ---
-<a href="https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers-ebook/dp/B01HSMRWNU/ref=as_li_ss_il?_encoding=UTF8&qid=1483748486&sr=8-1&linkCode=li3&tag=varnamblog-20&linkId=c937579ef01889f29a9e7d4e8bbca4bf" target="_blank"><img src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HSMRWNU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=varnamblog-20" border="0" /></a><img loading="lazy" style="border: none !important; margin: 0px !important;" src="https://ir-na.amazon-adsystem.com/e/ir?t=varnamblog-20&l=li3&o=1&a=B01HSMRWNU" alt="" width="1" height="1" border="0" />  
-[<span class="name" data-wfid="29cce8b60065">Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers </span>][1] by Tim Ferriss  
+![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HSMRWNU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=varnamblog-20#float)
 <span class="name">Our lives have been conditioned by our upbringing and past experience and as we age, it is hard to change. This can be illustrated by this story in the book</span>
 
-> <span class="name">This is a story about a tiger named Mohini that was in captivity in a zoo, who was rescued from an animal sanctuary. Mohini had been confined to a 10-by-10-foot cage with a concrete floor for 5 or 10 years. They finally released her into this big pasture: With excitement and anticipation, they released Mohini into her new and expensive environment, but it was too late. The tiger immediately sought refuge in a corner of the compound, where she lived for the remainder of her life. She paced and paced in that corner until an area 10-by-10 feet was worn bare of grass</span>
+This is a story about a tiger named Mohini that was in captivity in a zoo, who was rescued from an animal sanctuary. Mohini had been confined to a 10-by-10-foot cage with a concrete floor for 5 or 10 years. They finally released her into this big pasture: With excitement and anticipation, they released Mohini into her new and expensive environment, but it was too late. The tiger immediately sought refuge in a corner of the compound, where she lived for the remainder of her life. She paced and paced in that corner until an area 10-by-10 feet was worn bare of grass</span>
 
 <span class="name">Though, she had opportunities, the conditioned Mohini could not break free. This is also the reason why most of us lead an average, successful life because it doesn&#8217;t take much planning. Becoming extraordinary requires planning and routines that helps you distinguish from the other average people.</span>
 

@@ -11,7 +11,7 @@ tags:
   - Productivity
 
 ---
-<a href="https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/ref=as_li_ss_il?ie=UTF8&qid=1489346145&sr=8-1&keywords=high+output+management&linkCode=li3&tag=varnamblog-20&linkId=10fde956b63062f4b43a4e1e6c789501" target="_blank"><img class="alignleft" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015VACHOK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=varnamblog-20" border="0" /></a><img loading="lazy" style="border: none !important; margin: 0px !important;" src="https://ir-na.amazon-adsystem.com/e/ir?t=varnamblog-20&l=li3&o=1&a=B015VACHOK" alt="" width="1" height="1" border="0" />In the book, _High output management_, Andy Grove, Intel co-founder, makes a significant observation regarding meetings. Let me frame it in the context of something that we encounter regularly in planning meetings. There are two projects, both of which can bring in revenue and a decision has to be made. To pick an example from the book, we could
+![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015VACHOK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=varnamblog-20#float)In the book, _High output management_, Andy Grove, Intel co-founder, makes a significant observation regarding meetings. Let me frame it in the context of something that we encounter regularly in planning meetings. There are two projects, both of which can bring in revenue and a decision has to be made. To pick an example from the book, we could
 
   1. build a manufacturing plant next to an existing one
   2. build another larger one far away.
