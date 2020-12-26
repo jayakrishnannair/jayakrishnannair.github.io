@@ -1,22 +1,16 @@
----
-title: Stoicism in the times of COVID-19
-author: jayakrishnan
-type: post
-date: 2020-06-18T04:42:01+00:00
-url: /2020/06/18/stoicism-in-the-times-of-covid-19/
-categories:
-  - Books
-  - Self Improvement
-tags:
-  - stoicism
++++
+title="Stoicism in the times of COVID-19"
+date=2020-06-18T04:42:01+00:00
+categories=["Books","Self Improvement"]
+tags=["stoicism"]
 
----
+
++++
 ![Dilbert (using under fair use)](https://i0.wp.com/shooonya-photos-1.s3.amazonaws.com/dilbert-layoff.png?ssl=1)
 
 
-<p class="has-drop-cap">
-  It would be an understatement to say obstacles are all around for people who got affected by COVID-19, for businesses that got impacted, and for people who got laid off in a <a href="https://www.forbes.com/sites/jackkelly/2020/05/13/uber-lays-off-3500-employees-over-a-zoom-call-the-way-in-which-a-company-downsizes-its-staff-says-a-lot-about-the-organization/#67faf8867251">3 minute Zoom call</a> or an <a href="https://www.businessinsider.com/laid-off-lyft-employees-describe-how-the-process-was-handled-2020-5">e-mail in the morning</a>. What do you do when the black swan event of the century turns a normal day into a day where you wonder about how you are going to survive this crisis.
-</p>
+It would be an understatement to say obstacles are all around for people who got affected by COVID-19, for businesses that got impacted, and for people who got laid off in a <a href="https://www.forbes.com/sites/jackkelly/2020/05/13/uber-lays-off-3500-employees-over-a-zoom-call-the-way-in-which-a-company-downsizes-its-staff-says-a-lot-about-the-organization/#67faf8867251">3 minute Zoom call</a> or an <a href="https://www.businessinsider.com/laid-off-lyft-employees-describe-how-the-process-was-handled-2020-5">e-mail in the morning</a>. What do you do when the black swan event of the century turns a normal day into a day where you wonder about how you are going to survive this crisis.
+
 
 Initially you blame everyone. A week back a CEO told that his projections have shown they have enough cash to go on like this till December 2020. Next week he laid off 20% of the company. Once the blaming is done, you worry about the future. Will you be able to find a job? Who will be hiring when the entire country is sheltered in place? Each of these incidents elicit the same response in all of us &#8211; fear, frustration, confusion, helplessness, depression, and anger. Also the betrayal of false assurances.
 

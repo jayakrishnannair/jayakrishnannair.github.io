@@ -1,17 +1,10 @@
----
-title: Docker Windows 10 Port Mapping
-author: jayakrishnan
-type: post
-date: 2018-12-31T02:55:03+00:00
-url: /2018/12/31/docker-windows-10-port-mapping/
-categories:
-  - Notes to Self
-  - Technology
-tags:
-  - Docker
-  - Windows 10
++++
+title="Docker Windows 10 Port Mapping"
+categories=["Notes to Self","Technology"]
+tags=["Docker","Windows 10"]
 
----
+
++++
     FROM node:alpine
     COPY ./ ./
     RUN npm install
