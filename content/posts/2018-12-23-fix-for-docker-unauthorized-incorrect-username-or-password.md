@@ -1,14 +1,10 @@
----
-title: Handling Docker Login Errors
-author: jayakrishnan
-type: post
-date: 2018-12-23T05:20:57+00:00
-url: /2018/12/23/fix-for-docker-unauthorized-incorrect-username-or-password/
-categories:
-  - Notes to Self
-  - Technology
++++
+title="Handling Docker Login Errors"
+date=2018-12-23T05:20:57+00:00
+categories=["Notes to Self", "Technology"]
+  
 
----
++++
 If you have installed Docker for the first time, it is better to verify the install with the command
 
     docker run hello-world

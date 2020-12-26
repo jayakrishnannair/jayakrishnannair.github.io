@@ -1,17 +1,11 @@
----
-title: 'Book Review: Digital Minimalism by Cal Newport'
-author: jayakrishnan
-type: post
-date: 2019-03-07T11:34:37+00:00
-url: /2019/03/07/book-review-digital-minimalism-by-cal-newport/
-categories:
-  - Books
-  - Self Improvement
++++
+title= 'Book Review: Digital Minimalism by Cal Newport'
+date=2019-03-07T11:34:37+00:00
+categories=["Books","Self Improvement"]
 
----
-<div class="wp-block-image">
-  <figure class="alignleft"><img src="blob:http://www.shooonya.org/e49a1925-5f96-4140-9c51-9fef009f5fb3" alt="" /></figure>
-</div>
+
++++
+
 
 Every day I have an hour commute by BART &#8211; San Francisco Bay Area&#8217;s delightful transit system. When you are waiting for the train, there is a sight that will grab your attention every single day. Everyone is on the phone, mindlessly swiping gems on a game, binge-watching Netflix, and catching up with the latest on their favorite social media outlet. Caught up in their screens, it is fun to see people miss their stations.
 

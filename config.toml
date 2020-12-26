@@ -12,6 +12,9 @@ pygmentsCodeFences = true
 disqusShortname = ""
 googleAnalytics = ""
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
 [author]
   name = "Jayakrishnan Nair"
   github = "jayakrishnannair"
