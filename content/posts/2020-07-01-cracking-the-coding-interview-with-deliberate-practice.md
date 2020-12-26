@@ -1,13 +1,11 @@
----
-title: Cracking the Coding Interview with Deliberate Practice
-author: jayakrishnan
-type: post
-date: 2020-07-01T19:24:06+00:00
-url: /2020/07/01/cracking-the-coding-interview-with-deliberate-practice/
-categories:
-  - Self Improvement
++++
+title="Cracking the Coding Interview with Deliberate Practice"
+author="jayakrishnan"
+date= 2020-07-01T19:24:06+00:00
+categories=["Self Improvement"]
+  
 
----
++++
 <p class="has-drop-cap">
   Imagine you are at a technical phone screen, the first step in the interview pipeline. After the initial chit chat, the interviewer presents the coding challenge which looks like this.
 </p>
