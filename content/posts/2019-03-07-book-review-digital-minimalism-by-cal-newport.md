@@ -7,7 +7,7 @@ categories=["Books","Self Improvement"]
 +++
 
 
-Every day I have an hour commute by BART &#8211; San Francisco Bay Area&#8217;s delightful transit system. When you are waiting for the train, there is a sight that will grab your attention every single day. Everyone is on the phone, mindlessly swiping gems on a game, binge-watching Netflix, and catching up with the latest on their favorite social media outlet. Caught up in their screens, it is fun to see people miss their stations.
+![Digital Minimalism](https://d2sa5t9ngheghz.cloudfront.net/digital-minimalism.png#float)Every day I have an hour commute by BART &#8211; San Francisco Bay Area&#8217;s delightful transit system. When you are waiting for the train, there is a sight that will grab your attention every single day. Everyone is on the phone, mindlessly swiping gems on a game, binge-watching Netflix, and catching up with the latest on their favorite social media outlet. Caught up in their screens, it is fun to see people miss their stations.
 
 As permanently connected devices have taken over our world., our attention span has shrunk. The endless bombardment of news, gossip, and fake news <g class="gr_ gr\_7 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Grammar multiReplace" id="7" data-gr-id="7">has</g> made us information addicts. In this context, author, Cal Newport makes the case for choosing a focused life in a noisy world with the philosophy of Digital Minimalism. He argues that the current relationship with technology &#8212; where we are slaves to technology &#8212; is unsustainable and has to change. 
 
