@@ -3,6 +3,7 @@
   - [Productivity](#productivity)
     - [Peak by Anders Ericsson and Robert Pool](#peak-by-anders-ericsson-and-robert-pool)
     - [Tools of Titans by Tim Ferris](#tools-of-titans-by-tim-ferris)
+    - [Digital Minimalism by Cal Newport](#digital-minimalism-by-cal-newport)
   - [Philosophy](#philosophy)
     - [Obstacle is the Way by Ryan Holiday](#obstacle-is-the-way-by-ryan-holiday)
 
@@ -23,6 +24,14 @@ Read the [full review](https://www.shooonya.org/2020/07/cracking-the-coding-inte
 
 Read the [full review](https://www.shooonya.org/2017/01/07/tools-of-titans-by-tim-ferriss/)
 
+### Digital Minimalism by Cal Newport
+[![Digital Minimalism][8]][7] As permanently connected devices have taken over our world., our attention span has shrunk. The endless bombardment of news, gossip, and fake news has made us information addicts. In this context, author, Cal Newport makes the case for choosing a focused life in a noisy world with the philosophy of Digital Minimalism. He argues that the current relationship with technology — where we are slaves to technology — is unsustainable and has to change.
+
+Read the [full review](https://www.shooonya.org/2019/03/book-review-digital-minimalism-by-cal-newport/)
+
+
+
+
 ## Philosophy
 
 ### Obstacle is the Way by Ryan Holiday
@@ -39,3 +48,6 @@ Read the [full review](https://www.shooonya.org/2020/06/stoicism-in-the-times-of
 
 [5]: https://www.shooonya.org/2017/01/07/tools-of-titans-by-tim-ferriss/
 [6]: https://d2sa5t9ngheghz.cloudfront.net/tools-titans.png#float
+
+[7]: https://www.shooonya.org/2019/03/book-review-digital-minimalism-by-cal-newport/
+[8]: https://d2sa5t9ngheghz.cloudfront.net/digital-minimalism.png#float
