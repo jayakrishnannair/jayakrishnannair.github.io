@@ -10,7 +10,7 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-53453810-1"
 
 [permalinks]
   posts = "/:year/:month/:title/"
