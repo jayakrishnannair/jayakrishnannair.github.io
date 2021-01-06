@@ -8,7 +8,7 @@ categories:
   - Books
 
 ---
-![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HSMRWNU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=varnamblog-20#float)
+![Tools of the Titans](https://d2sa5t9ngheghz.cloudfront.net/tools-titans.png#float)
 <span class="name">Our lives have been conditioned by our upbringing and past experience and as we age, it is hard to change. This can be illustrated by this story in the book</span>
 
 This is a story about a tiger named Mohini that was in captivity in a zoo, who was rescued from an animal sanctuary. Mohini had been confined to a 10-by-10-foot cage with a concrete floor for 5 or 10 years. They finally released her into this big pasture: With excitement and anticipation, they released Mohini into her new and expensive environment, but it was too late. The tiger immediately sought refuge in a corner of the compound, where she lived for the remainder of her life. She paced and paced in that corner until an area 10-by-10 feet was worn bare of grass</span>
