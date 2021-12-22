@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.shooonya.org"
 languageCode = "en-us"
 title = "Shooonya"
 theme = "ink-free"
