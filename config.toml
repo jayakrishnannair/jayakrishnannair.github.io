@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Technology | Books | Photography"
+  subtitle = "Technology | Books | Photography  "
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -45,34 +45,34 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
+  name = "Jayakrishnan Nair"
+  website = "shooonya.org"
+ # email = "youremail@domain.com"
+ # facebook = "username"
   github = "username"
-  gitlab = "username"
-  bitbucket = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
-  mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
+ # gitlab = "username"
+ # bitbucket = "username"
+  twitter = "jnair_dev"
+ # reddit = "username"
+  linkedin = "jayakrishnannair"
+ # xing = "username"
+ # stackoverflow = "users/XXXXXXX/username"
+ # snapchat = "username"
+ # instagram = "username"
+ # youtube = "user/username" # or channel/channelname
+ # soundcloud = "username"
+ # spotify = "username"
+ # bandcamp = "username"
+ # itchio = "username"
+ # vk = "username"
+ # paypal = "username"
+ # telegram = "username"
+ # 500px = "username"
+ # codepen = "username"
+ # mastodon = "url"
+ # kaggle = "username"
+ # weibo = "username"
+ # slack = "username"
 
 [[menu.main]]
     name = "Blog"
@@ -81,7 +81,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "/about/"
     weight = 3
 
 [[menu.main]]
