@@ -1,1 +1,1 @@
-I am an engineer who works on large scale distributed systems.
+[Jayakrishnan Nair](https://www.linkedin.com/in/jayakrishnanbnair/) is an engineer who works on large scale distributed systems. The opinions expressed here are my own and do not represent my employer.

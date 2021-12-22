@@ -2,11 +2,23 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Shooonya"
 theme = "ink-free"
-paginate = 5
+paginate = 10
 
-copyright = "© Copyright notice"
+copyright = "© Jayakrishnan Nair"
 # Demo only
 #ignoreErrors = ["error-missing-instagram-accesstoken"]
+
+[author]
+    name = "Example"
+    github = "funkydan2"
+    #gitlab = "username"
+    #linkedin = "username"
+    #facebook = "username"
+    twitter = "ds_says"
+    #instagram = "username"
+    #stackoverflow = "username"
+    #youtube = "user/username" # or channel/channelname
+    #devto = "username"
 
 [permalinks]
   posts = "/:year/:month/:title"
@@ -30,8 +42,7 @@ copyright = "© Copyright notice"
 
 	# Stupid footers :)
 	footers = [ 
-		"What Tiger King can teach us about x86 Assembly",
-		"10 Reasons why gcc SHOULD be re-written in JavaScript - You won't believe #8!"
+	
 	]
 
 	# Github base url
