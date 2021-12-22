@@ -1,65 +1,90 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Shooonya"
-theme = "hugo-kiera"
-paginate = 25
-copyright = "Copyright &copy; 2020 - Jayakrishnan Nair"
+theme = "ink-free"
+paginate = 5
 
-summaryLength = 30
-enableEmoji = true
-pygmentsCodeFences = true
-
-disqusShortname = ""
-googleAnalytics = "UA-53453810-1"
+copyright = "© Copyright notice"
+# Demo only
+#ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [permalinks]
-  posts = "/:year/:month/:title/"
-
-[author]
-  name = "Jayakrishnan Nair"
-  github = "jayakrishnannair"
-  linkedin = "jayakrishnanbnair"
-  twitter = "jnair_dev"
+  posts = "/:year/:month/:title"
 
 [params]
-   author = "Jayakrishnan Nair"
-   description = "Technology. Books. Photography"
-   tagline = "Technology; Books; Photography"
-   homepageLength=10
-   paginationSinglePost = true
-   style = "light-without-switcher"
-   readMore = false
+	subtitle = "Technology | Photography | Books"
 
-[menu]
+	# Optional 64x64 avatar image.
+	#avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 1
-  
-  [[menu.main]]
-  identifier = "bookshelf"
-  name = "Bookshelf"
-  url = "/bookshelf/"
-  weight = 2
+	featherIconsCDN = false
 
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
+	# Enable a table of contents
+	toc = true
 
-  [[menu.main]]
-    name = "Archive"
-    identifier = "archive"
-    url = "/posts/"
-    weight = 4
+	# Max tags
+  	maxTags = 7
 
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories"
-    weight = 5
+  # Define words per minute to approximate reading time
+  wpm = 250
+
+	# Stupid footers :)
+	footers = [ 
+		"What Tiger King can teach us about x86 Assembly",
+		"10 Reasons why gcc SHOULD be re-written in JavaScript - You won't believe #8!"
+	]
+
+	# Github base url
+  	github = "https://github.com/chollinger93/ink-free"
 
 
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/jayakrishnannair/"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 2 
