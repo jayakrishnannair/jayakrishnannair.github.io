@@ -1,59 +1,64 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Shooonya"
-theme = "hugo-kiera"
-paginate = 25
-copyright = "Copyright &copy; 2020 - Jayakrishnan Nair"
+theme = "hugo-ink"
+paginate = 5
 
-summaryLength = 30
-enableEmoji = true
-pygmentsCodeFences = true
+copyright = "© Jayakrishnan Nair"
 
-disqusShortname = ""
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
 googleAnalytics = "UA-53453810-1"
-
-[permalinks]
-  posts = "/:year/:month/:title/"
-
-[author]
-  name = "Jayakrishnan Nair"
-  github = "jayakrishnannair"
-  linkedin = "jayakrishnanbnair"
-  twitter = "jnair_dev"
+#disqusShortname = "ink-demo"
 
 [params]
-   author = "Jayakrishnan Nair"
-   description = "Technology. Books. Photography"
-   tagline = "Technology; Books; Photography"
-   homepageLength=10
-   paginationSinglePost = true
-   style = "light-without-switcher"
-   readMore = false
+	subtitle = "Technology | Books | Photography"
 
-[menu]
+	# Optional 64x64 avatar image.
+	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 1
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+	
+	featherIconsCDN = true
 
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
+	mode = "auto" # "dark" or "auto"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
-  [[menu.main]]
-    name = "Archive"
-    identifier = "archive"
-    url = "/posts/"
-    weight = 3
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories"
-    weight = 4
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
 
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
 
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/jayakrishnannair"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"
