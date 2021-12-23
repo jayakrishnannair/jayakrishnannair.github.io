@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Shoonya</title>
+    <link>/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on Shoonya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Mar 2017 05:03:28 +0000</lastBuildDate><atom:link href="/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doing Deep Work – 1</title>
+      <link>/2017/03/15/doing-deep-work-1/</link>
+      <pubDate>Wed, 15 Mar 2017 05:03:28 +0000</pubDate>
+      
+      <guid>/2017/03/15/doing-deep-work-1/</guid>
+      <description>Doing deep work requires focus. You have to be free of distractions and have to be wise enough not to drown yourself in mindless web surfing. You should not end up as a slave to an attention grabbing algorithm run by a social media company. In the Ezra Klein podcast,Yuval Noah Harari, the author of Sapiens,talks about his technique for overcoming distraction I try to set my own agenda and not to allow technology to set the agenda for me.</description>
+    </item>
+    
+  </channel>
+</rss>

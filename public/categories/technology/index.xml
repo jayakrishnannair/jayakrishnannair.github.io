@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Shoonya</title>
+    <link>/categories/technology/</link>
+    <description>Recent content in Technology on Shoonya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Dec 2018 05:20:57 +0000</lastBuildDate><atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handling Docker Login Errors</title>
+      <link>/posts/2018-12-23-fix-for-docker-unauthorized-incorrect-username-or-password/</link>
+      <pubDate>Sun, 23 Dec 2018 05:20:57 +0000</pubDate>
+      
+      <guid>/posts/2018-12-23-fix-for-docker-unauthorized-incorrect-username-or-password/</guid>
+      <description>If you have installed Docker for the first time, it is better to verify the install with the command
+docker run hello-world  When you ran that command and got the error “unauthorized: incorrect username or password”, read on. Most likely you would have entered your Docker hub e-mail and password. Big mistake.
+The instruction says that you should loginwith your Docker ID. This Docker ID is not your e-mail. For thatyou need to login to Docker Hub with your e-mail and go to the Profile page.</description>
+    </item>
+    
+    <item>
+      <title>Docker Windows 10 Port Mapping</title>
+      <link>/posts/2018-12-31-docker-windows-10-port-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2018-12-31-docker-windows-10-port-mapping/</guid>
+      <description>FROM node:alpine COPY ./ ./ RUN npm install CMD [&amp;quot;npm&amp;quot;, &amp;quot;start&amp;quot;]  If this is your Dockerfile and your node app starts at port 8080, then logically you would think that typing
+http://localhost:8080  would give you access to the application. This works fine on OSX, but on a Windows 10 machine using Docker Toolkit, you will get an error message which says, that the browser can’t establish a connection to the server at localhost:8080.</description>
+    </item>
+    
+  </channel>
+</rss>

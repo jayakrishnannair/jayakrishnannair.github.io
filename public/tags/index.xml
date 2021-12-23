@@ -1,14 +1,181 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Shooonya</title>
+    <title>Tags on Shoonya</title>
     <link>/tags/</link>
-    <description>Shooonya (Tags)</description>
+    <description>Recent content in Tags on Shoonya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Dec 2021 21:05:30 -0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>orbi</title>
+      <link>/tags/orbi/</link>
+      <pubDate>Tue, 21 Dec 2021 21:05:30 -0800</pubDate>
+      
+      <guid>/tags/orbi/</guid>
+      <description></description>
+    </item>
     
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sonos</title>
+      <link>/tags/sonos/</link>
+      <pubDate>Tue, 21 Dec 2021 21:05:30 -0800</pubDate>
+      
+      <guid>/tags/sonos/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>stoicism</title>
+      <link>/tags/stoicism/</link>
+      <pubDate>Thu, 18 Jun 2020 04:42:01 +0000</pubDate>
+      
+      <guid>/tags/stoicism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon</title>
+      <link>/tags/amazon/</link>
+      <pubDate>Sun, 02 Dec 2018 05:07:37 +0000</pubDate>
+      
+      <guid>/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>/tags/aws/</link>
+      <pubDate>Sun, 02 Dec 2018 05:07:37 +0000</pubDate>
+      
+      <guid>/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>re:Invent</title>
+      <link>/tags/reinvent/</link>
+      <pubDate>Sun, 02 Dec 2018 05:07:37 +0000</pubDate>
+      
+      <guid>/tags/reinvent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Ng</title>
+      <link>/tags/andrew-ng/</link>
+      <pubDate>Mon, 31 Jul 2017 02:33:25 +0000</pubDate>
+      
+      <guid>/tags/andrew-ng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cal Newport</title>
+      <link>/tags/cal-newport/</link>
+      <pubDate>Mon, 31 Jul 2017 02:33:25 +0000</pubDate>
+      
+      <guid>/tags/cal-newport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Work</title>
+      <link>/tags/deep-work/</link>
+      <pubDate>Mon, 31 Jul 2017 02:33:25 +0000</pubDate>
+      
+      <guid>/tags/deep-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Notes</title>
+      <link>/tags/book-notes/</link>
+      <pubDate>Sat, 01 Jul 2017 20:43:32 +0000</pubDate>
+      
+      <guid>/tags/book-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>/tags/learning/</link>
+      <pubDate>Sat, 01 Jul 2017 20:43:32 +0000</pubDate>
+      
+      <guid>/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity</title>
+      <link>/tags/productivity/</link>
+      <pubDate>Sat, 01 Jul 2017 20:43:32 +0000</pubDate>
+      
+      <guid>/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coursera</title>
+      <link>/tags/coursera/</link>
+      <pubDate>Sat, 15 Aug 2015 04:20:11 +0000</pubDate>
+      
+      <guid>/tags/coursera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APM</title>
+      <link>/tags/apm/</link>
+      <pubDate>Sat, 02 Aug 2014 05:59:52 +0000</pubDate>
+      
+      <guid>/tags/apm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CDN</title>
+      <link>/tags/cdn/</link>
+      <pubDate>Sat, 02 Aug 2014 05:59:52 +0000</pubDate>
+      
+      <guid>/tags/cdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Relic</title>
+      <link>/tags/new-relic/</link>
+      <pubDate>Sat, 02 Aug 2014 05:59:52 +0000</pubDate>
+      
+      <guid>/tags/new-relic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Velocity</title>
+      <link>/tags/velocity/</link>
+      <pubDate>Sat, 02 Aug 2014 05:59:52 +0000</pubDate>
+      
+      <guid>/tags/velocity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows 10</title>
+      <link>/tags/windows-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/windows-10/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

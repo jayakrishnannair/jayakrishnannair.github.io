@@ -1,14 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Shooonya</title>
+    <title>Categories on Shoonya</title>
     <link>/categories/</link>
-    <description>Shooonya (Categories)</description>
+    <description>Recent content in Categories on Shoonya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 19:24:06 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self Improvement</title>
+      <link>/categories/self-improvement/</link>
+      <pubDate>Wed, 01 Jul 2020 19:24:06 +0000</pubDate>
+      
+      <guid>/categories/self-improvement/</guid>
+      <description></description>
+    </item>
     
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>/categories/books/</link>
+      <pubDate>Thu, 18 Jun 2020 04:42:01 +0000</pubDate>
+      
+      <guid>/categories/books/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Notes to Self</title>
+      <link>/categories/notes-to-self/</link>
+      <pubDate>Sun, 23 Dec 2018 05:20:57 +0000</pubDate>
+      
+      <guid>/categories/notes-to-self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>/categories/technology/</link>
+      <pubDate>Sun, 23 Dec 2018 05:20:57 +0000</pubDate>
+      
+      <guid>/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conferences</title>
+      <link>/categories/conferences/</link>
+      <pubDate>Sun, 02 Dec 2018 05:07:37 +0000</pubDate>
+      
+      <guid>/categories/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>/categories/podcasts/</link>
+      <pubDate>Sun, 13 May 2018 00:49:36 +0000</pubDate>
+      
+      <guid>/categories/podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startups</title>
+      <link>/categories/startups/</link>
+      <pubDate>Sun, 13 May 2018 00:49:36 +0000</pubDate>
+      
+      <guid>/categories/startups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>/categories/uncategorized/</link>
+      <pubDate>Wed, 15 Mar 2017 05:03:28 +0000</pubDate>
+      
+      <guid>/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>/categories/swift/</link>
+      <pubDate>Mon, 29 Aug 2016 17:50:48 +0000</pubDate>
+      
+      <guid>/categories/swift/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

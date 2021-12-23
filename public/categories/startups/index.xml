@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startups on Shoonya</title>
+    <link>/categories/startups/</link>
+    <description>Recent content in Startups on Shoonya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 May 2018 00:49:36 +0000</lastBuildDate><atom:link href="/categories/startups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to innovate by Jonas Kjellberg</title>
+      <link>/2018/05/13/how-to-innovate/</link>
+      <pubDate>Sun, 13 May 2018 00:49:36 +0000</pubDate>
+      
+      <guid>/2018/05/13/how-to-innovate/</guid>
+      <description>In this podcast, Jonas Kjellberg, the co-creator of Skype, gives few tips to entrepreneurs on how to think about running a business and how to innovate.
+  Thinking in Zeroes:One of his focus is to challenge the cost side. Running a business is costly and often in business leadership, cost reduction means laying off employees or moving business operations and development to a low-cost location. Skype was a challenge to Telcos and Jonas used this thinking to his advantage.</description>
+    </item>
+    
+    <item>
+      <title>Two ways to run a large company with agility</title>
+      <link>/2017/04/16/howto-run-large-company-agility/</link>
+      <pubDate>Sun, 16 Apr 2017 03:19:47 +0000</pubDate>
+      
+      <guid>/2017/04/16/howto-run-large-company-agility/</guid>
+      <description>Large companies stagnate with innovation and startups steal their thunder. One root cause is that the decision making is not agile any more. No one wants to do anything to upset the brand. Projects are green lit with caution. The decision making is punted up the chain. So how does Amazon’s CEO manage to keep his company agile? By making high-velocity decisions since “Speed matters in business”. Seems self evident, but lot of companies seem to forget this.</description>
+    </item>
+    
+    <item>
+      <title>Innovation in Large Companies</title>
+      <link>/2017/03/27/innovation-large-companies/</link>
+      <pubDate>Mon, 27 Mar 2017 04:09:56 +0000</pubDate>
+      
+      <guid>/2017/03/27/innovation-large-companies/</guid>
+      <description>Right now Artificial Intelligence and Machine Learning are hot topics. Who is better suited to do work in that area? Large companies or startups? Large companies, because they have huge data set or startups because they can innovate faster even though they lack the data that large companies do? For example, Google has huge data set in GMail, so can a startup compete in that space with limited data set? One of the recent a16z podcastsdeals with this topic and during the conversation an interesting point regarding innovation in large companies was mentioned.</description>
+    </item>
+    
+  </channel>
+</rss>

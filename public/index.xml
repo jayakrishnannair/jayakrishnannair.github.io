@@ -1,14 +1,182 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shooonya</title>
+    <title>Shoonya</title>
     <link>/</link>
-    <description>Shooonya</description>
+    <description>Recent content on Shoonya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Dec 2021 21:05:30 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOLVED: Sonos Orbi WiFi Issues</title>
+      <link>/posts/2021-12-20-sonos-orbi/</link>
+      <pubDate>Tue, 21 Dec 2021 21:05:30 -0800</pubDate>
+      
+      <guid>/posts/2021-12-20-sonos-orbi/</guid>
+      <description>When I tried to add a Sonos Beam Gen 2 to my home network, which consists of a Orbi mesh with one receiver and multiple satellites, I ran into few issues. There are others who have run into similar issues trying to battle 2.4 Ghz and passwords.
+  Sonos would not connect to my default network (5.0 Ghz) and it could only connect to a 2.4 Ghz network. So I enabled a guest network with 2.</description>
+    </item>
     
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cracking the Coding Interview with Deliberate Practice</title>
+      <link>/posts/2020-07-01-cracking-the-coding-interview-with-deliberate-practice/</link>
+      <pubDate>Wed, 01 Jul 2020 19:24:06 +0000</pubDate>
+      
+      <guid>/posts/2020-07-01-cracking-the-coding-interview-with-deliberate-practice/</guid>
+      <description>Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.One of the first things you should do in interviews is ask clarifying questions. The first question would be, are you a water management company or a software company? Once the futility has been confirmed, you will ponder about the algorithm. Should I sort? Should I use a stack?</description>
+    </item>
     
+    <item>
+      <title>Stoicism in the times of COVID-19</title>
+      <link>/posts/2020-06-18-stoicism-in-the-times-of-covid-19/</link>
+      <pubDate>Thu, 18 Jun 2020 04:42:01 +0000</pubDate>
+      
+      <guid>/posts/2020-06-18-stoicism-in-the-times-of-covid-19/</guid>
+      <description>It would be an understatement to say obstacles are all around for people who got affected by COVID-19, for businesses that got impacted, and for people who got laid off in a 3 minute Zoom callor an e-mail in the morning. What do you do when the black swan event of the century turns a normal day into a day where you wonder about how you are going to survive this crisis.</description>
+    </item>
+    
+    <item>
+      <title>Book Review: Digital Minimalism by Cal Newport</title>
+      <link>/posts/2019-03-07-book-review-digital-minimalism-by-cal-newport/</link>
+      <pubDate>Thu, 07 Mar 2019 11:34:37 +0000</pubDate>
+      
+      <guid>/posts/2019-03-07-book-review-digital-minimalism-by-cal-newport/</guid>
+      <description>Every day I have an hour commute by BART – San Francisco Bay Area’s delightful transit system. When you are waiting for the train, there is a sight that will grab your attention every single day. Everyone is on the phone, mindlessly swiping gems on a game, binge-watching Netflix, and catching up with the latest on their favorite social media outlet. Caught up in their screens, it is fun to see people miss their stations.</description>
+    </item>
+    
+    <item>
+      <title>Handling Docker Login Errors</title>
+      <link>/posts/2018-12-23-fix-for-docker-unauthorized-incorrect-username-or-password/</link>
+      <pubDate>Sun, 23 Dec 2018 05:20:57 +0000</pubDate>
+      
+      <guid>/posts/2018-12-23-fix-for-docker-unauthorized-incorrect-username-or-password/</guid>
+      <description>If you have installed Docker for the first time, it is better to verify the install with the command
+docker run hello-world  When you ran that command and got the error “unauthorized: incorrect username or password”, read on. Most likely you would have entered your Docker hub e-mail and password. Big mistake.
+The instruction says that you should loginwith your Docker ID. This Docker ID is not your e-mail. For thatyou need to login to Docker Hub with your e-mail and go to the Profile page.</description>
+    </item>
+    
+    <item>
+      <title>Top 10 Tips from re:Invent 2018</title>
+      <link>/2018/12/02/top-10-tips-from-reinvent-2018/</link>
+      <pubDate>Sun, 02 Dec 2018 05:07:37 +0000</pubDate>
+      
+      <guid>/2018/12/02/top-10-tips-from-reinvent-2018/</guid>
+      <description>re:Invent was a huge conference with many venues and over 60,000 attendees. If you don’t plan properly, you will end up sitting in various shuttles, traveling up and down the strip. Here are some tips from my experience.
+ Book your ticket early. The popular sessions fill up quickly and you will end up on the waiting list for most of them.    When the re:Invent planner says that the next venue is 30 minutes away, trust that.</description>
+    </item>
+    
+    <item>
+      <title>How to innovate by Jonas Kjellberg</title>
+      <link>/2018/05/13/how-to-innovate/</link>
+      <pubDate>Sun, 13 May 2018 00:49:36 +0000</pubDate>
+      
+      <guid>/2018/05/13/how-to-innovate/</guid>
+      <description>In this podcast, Jonas Kjellberg, the co-creator of Skype, gives few tips to entrepreneurs on how to think about running a business and how to innovate.
+  Thinking in Zeroes:One of his focus is to challenge the cost side. Running a business is costly and often in business leadership, cost reduction means laying off employees or moving business operations and development to a low-cost location. Skype was a challenge to Telcos and Jonas used this thinking to his advantage.</description>
+    </item>
+    
+    <item>
+      <title>Deliberate Lifelong Learning</title>
+      <link>/2017/07/31/deliberate-lifelong-learning/</link>
+      <pubDate>Mon, 31 Jul 2017 02:33:25 +0000</pubDate>
+      
+      <guid>/2017/07/31/deliberate-lifelong-learning/</guid>
+      <description>In an interview on the AI Podcast, Andrew Ng predicts that AI would be an essential part of our lives and it is going to transform the world, the way electricity did. A consequence of that is not that Skynet would activate, but many of the existing jobs would disappear. To survive, lifelong learning would become essential. Previously, we could learn something in college and ply trade based on that knowledge for decades.</description>
+    </item>
+    
+    <item>
+      <title>The Best Way to Become an Expert</title>
+      <link>/2017/07/01/the-best-way-to-become-an-expert/</link>
+      <pubDate>Sat, 01 Jul 2017 20:43:32 +0000</pubDate>
+      
+      <guid>/2017/07/01/the-best-way-to-become-an-expert/</guid>
+      <description>In June 2017, Alex Honnold did something which no man had done before. He climbed El Capitan in Yosemite without any ropes. This free solo ascent of the 3000 ft rock formation without any fallback mechanism ranks as one of the greatest athletic feats ever. Equally interesting is the way Alex Honnold trained. He did 60 practice climbs on El Capitan. First, he rehearsed these climbs using rope. He memorized complex portions of the climb.</description>
+    </item>
+    
+    <item>
+      <title>Two ways to run a large company with agility</title>
+      <link>/2017/04/16/howto-run-large-company-agility/</link>
+      <pubDate>Sun, 16 Apr 2017 03:19:47 +0000</pubDate>
+      
+      <guid>/2017/04/16/howto-run-large-company-agility/</guid>
+      <description>Large companies stagnate with innovation and startups steal their thunder. One root cause is that the decision making is not agile any more. No one wants to do anything to upset the brand. Projects are green lit with caution. The decision making is punted up the chain. So how does Amazon’s CEO manage to keep his company agile? By making high-velocity decisions since “Speed matters in business”. Seems self evident, but lot of companies seem to forget this.</description>
+    </item>
+    
+    <item>
+      <title>Innovation in Large Companies</title>
+      <link>/2017/03/27/innovation-large-companies/</link>
+      <pubDate>Mon, 27 Mar 2017 04:09:56 +0000</pubDate>
+      
+      <guid>/2017/03/27/innovation-large-companies/</guid>
+      <description>Right now Artificial Intelligence and Machine Learning are hot topics. Who is better suited to do work in that area? Large companies or startups? Large companies, because they have huge data set or startups because they can innovate faster even though they lack the data that large companies do? For example, Google has huge data set in GMail, so can a startup compete in that space with limited data set? One of the recent a16z podcastsdeals with this topic and during the conversation an interesting point regarding innovation in large companies was mentioned.</description>
+    </item>
+    
+    <item>
+      <title>Doing Deep Work – 1</title>
+      <link>/2017/03/15/doing-deep-work-1/</link>
+      <pubDate>Wed, 15 Mar 2017 05:03:28 +0000</pubDate>
+      
+      <guid>/2017/03/15/doing-deep-work-1/</guid>
+      <description>Doing deep work requires focus. You have to be free of distractions and have to be wise enough not to drown yourself in mindless web surfing. You should not end up as a slave to an attention grabbing algorithm run by a social media company. In the Ezra Klein podcast,Yuval Noah Harari, the author of Sapiens,talks about his technique for overcoming distraction I try to set my own agenda and not to allow technology to set the agenda for me.</description>
+    </item>
+    
+    <item>
+      <title>How to make better decisions in meetings</title>
+      <link>/2017/03/12/how-to-make-better-decisions-in-meetings/</link>
+      <pubDate>Sun, 12 Mar 2017 19:20:10 +0000</pubDate>
+      
+      <guid>/2017/03/12/how-to-make-better-decisions-in-meetings/</guid>
+      <description>In the book, High output management, Andy Grove, Intel co-founder, makes a significant observation regarding meetings. Let me frame it in the context of something that we encounter regularly in planning meetings. There are two projects, both of which can bring in revenue and a decision has to be made. To pick an example from the book, we could
+ build a manufacturing plant next to an existing one build another larger one far away.</description>
+    </item>
+    
+    <item>
+      <title>Tools of Titans by Tim Ferriss</title>
+      <link>/2017/01/07/tools-of-titans-by-tim-ferriss/</link>
+      <pubDate>Sat, 07 Jan 2017 00:35:39 +0000</pubDate>
+      
+      <guid>/2017/01/07/tools-of-titans-by-tim-ferriss/</guid>
+      <description>Our lives have been conditioned by our upbringing and past experience and as we age, it is hard to change. This can be illustrated by this story in the bookThis is a story about a tiger named Mohini that was in captivity in a zoo, who was rescued from an animal sanctuary. Mohini had been confined to a 10-by-10-foot cage with a concrete floor for 5 or 10 years. They finally released her into this big pasture: With excitement and anticipation, they released Mohini into her new and expensive environment, but it was too late.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Swift: let</title>
+      <link>/2016/08/29/understanding-swift-let/</link>
+      <pubDate>Mon, 29 Aug 2016 17:50:48 +0000</pubDate>
+      
+      <guid>/2016/08/29/understanding-swift-let/</guid>
+      <description>Here is the handler code for a slider in XCode 7
+@IBAction func handleSlider(sender: UISlider) { var value = sender.value print(&amp;quot;value \(value) &amp;quot;) }  If you type in this code, XCode will issue the following warning near the declaration of the var value, Variable ‘value’ was never mutated; consider changing to ‘let’ constant. Once you choose that option, the code changes to this and the warning disappears.
+@IBAction func handleSlider(sender: UISlider) { let value = sender.</description>
+    </item>
+    
+    <item>
+      <title>How to export highlights from Kindle Fire</title>
+      <link>/2015/08/22/how-to-export-highlights-from-kindle-fire/</link>
+      <pubDate>Sat, 22 Aug 2015 14:42:15 +0000</pubDate>
+      
+      <guid>/2015/08/22/how-to-export-highlights-from-kindle-fire/</guid>
+      <description>If you highlight the books you read on a Kindle Paperwhite and would like to extract them as text into your word processor or OneNote, then there is a simple way. Use clippings.io. This simple web application reads the clippings text file on the Paperwhite and neatly organizes the notes.
+But if you are making your highlights on a Kindle Fire, then there is no text file to import. The highlights are stored inside the mbp file and it is not easy to extract the highlights.</description>
+    </item>
+    
+    <item>
+      <title>9 Tips For Engineers For Learning Efficiently</title>
+      <link>/2015/08/15/9-tips-for-engineers-for-learning-efficiently/</link>
+      <pubDate>Sat, 15 Aug 2015 04:20:11 +0000</pubDate>
+      
+      <guid>/2015/08/15/9-tips-for-engineers-for-learning-efficiently/</guid>
+      <description>In our software engineering careers, we switch jobs and end up working in a new domain. Some domains are easy to learn — the engineering might be hard — while others, especially those involving payments or stock exchanges (few areas where I have worked) take time to understand. There is another issue as you progress in your career: when you are fresh out of college, the brain is tuned to learning techniques, but after a few decades of work, you struggle.</description>
+    </item>
+    
+    <item>
+      <title>Notes from Velocity 2014</title>
+      <link>/2014/08/02/notes-velocity-2014/</link>
+      <pubDate>Sat, 02 Aug 2014 05:59:52 +0000</pubDate>
+      
+      <guid>/2014/08/02/notes-velocity-2014/</guid>
+      <description>I attended the Velocity Conference in Santa Clara this year and these are few of the takeaways. If an image could summarize the conference, it would be this image from Scott Hanselman’s Keynote address, Virtual Machines, JavaScript and Assembler which was the most entertaining keynote I have ever heard.There were three main takeaways for me: APM is huge; everyone is into optimizing images and the CDNs are getting smarter.
+APM is not American Public Media or Advanced Power Management or Actions Per Minute, but Application Performance Management.</description>
+    </item>
     
     <item>
       <title></title>
@@ -16,8 +184,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>&lt;p&gt;I am an engineer who works on large scale distributed systems.&lt;/p&gt;
-</description>
+      <description>Jayakrishnan Nair is an engineer who works on large scale distributed systems. The opinions expressed here are my own and do not represent my employer.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bookshelf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bookshelf/</guid>
+      <description>Book Shelf  Book Shelf  Productivity  Peak by Anders Ericsson and Robert Pool Tools of Titans by Tim Ferris Digital Minimalism by Cal Newport   Philosophy  Obstacle is the Way by Ryan Holiday      These are books I have read and recommend.
+Productivity Peak by Anders Ericsson and Robert Pool  Forget Malcolm Gladwell&amp;rsquo;s 10,000 hour rule. This book corrects Gladwell and introduces the concept of deliberate practice.</description>
     </item>
     
     <item>
@@ -26,8 +203,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/test/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
-</description>
+      <description>Hello World </description>
+    </item>
+    
+    <item>
+      <title>Docker Windows 10 Port Mapping</title>
+      <link>/posts/2018-12-31-docker-windows-10-port-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2018-12-31-docker-windows-10-port-mapping/</guid>
+      <description>FROM node:alpine COPY ./ ./ RUN npm install CMD [&amp;quot;npm&amp;quot;, &amp;quot;start&amp;quot;]  If this is your Dockerfile and your node app starts at port 8080, then logically you would think that typing
+http://localhost:8080  would give you access to the application. This works fine on OSX, but on a Windows 10 machine using Docker Toolkit, you will get an error message which says, that the browser can’t establish a connection to the server at localhost:8080.</description>
     </item>
     
   </channel>

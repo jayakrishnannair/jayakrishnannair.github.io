@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on Shoonya</title>
+    <link>/categories/podcasts/</link>
+    <description>Recent content in Podcasts on Shoonya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 May 2018 00:49:36 +0000</lastBuildDate><atom:link href="/categories/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to innovate by Jonas Kjellberg</title>
+      <link>/2018/05/13/how-to-innovate/</link>
+      <pubDate>Sun, 13 May 2018 00:49:36 +0000</pubDate>
+      
+      <guid>/2018/05/13/how-to-innovate/</guid>
+      <description>In this podcast, Jonas Kjellberg, the co-creator of Skype, gives few tips to entrepreneurs on how to think about running a business and how to innovate.
+  Thinking in Zeroes:One of his focus is to challenge the cost side. Running a business is costly and often in business leadership, cost reduction means laying off employees or moving business operations and development to a low-cost location. Skype was a challenge to Telcos and Jonas used this thinking to his advantage.</description>
+    </item>
+    
+  </channel>
+</rss>

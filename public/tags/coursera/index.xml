@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coursera on Shoonya</title>
+    <link>/tags/coursera/</link>
+    <description>Recent content in Coursera on Shoonya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Aug 2015 04:20:11 +0000</lastBuildDate><atom:link href="/tags/coursera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9 Tips For Engineers For Learning Efficiently</title>
+      <link>/2015/08/15/9-tips-for-engineers-for-learning-efficiently/</link>
+      <pubDate>Sat, 15 Aug 2015 04:20:11 +0000</pubDate>
+      
+      <guid>/2015/08/15/9-tips-for-engineers-for-learning-efficiently/</guid>
+      <description>In our software engineering careers, we switch jobs and end up working in a new domain. Some domains are easy to learn — the engineering might be hard — while others, especially those involving payments or stock exchanges (few areas where I have worked) take time to understand. There is another issue as you progress in your career: when you are fresh out of college, the brain is tuned to learning techniques, but after a few decades of work, you struggle.</description>
+    </item>
+    
+  </channel>
+</rss>
