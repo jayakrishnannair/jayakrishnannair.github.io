@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://shooonya.org"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Shoonya"
