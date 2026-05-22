@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on My Blog</title>
+    <link>http://localhost:1313/tags/docker/</link>
+    <description>Recent content in Docker on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Windows 10 Port Mapping</title>
+      <link>http://localhost:1313/posts/2018-12-31-docker-windows-10-port-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018-12-31-docker-windows-10-port-mapping/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;FROM node:alpine
+COPY ./ ./
+RUN npm install
+CMD [&amp;quot;npm&amp;quot;, &amp;quot;start&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If this is your Dockerfile and your node app starts at port 8080, then logically you would think that typing&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://localhost:8080
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;would give you access to the application. This works fine on OSX, but on a Windows 10 machine using Docker Toolkit, you will get an error message which says, that the browser can’t establish a connection to the server at localhost:8080.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

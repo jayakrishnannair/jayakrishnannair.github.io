@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podcasts on My Blog</title>
+    <link>http://localhost:1313/categories/podcasts/</link>
+    <description>Recent content in Podcasts on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 May 2018 00:49:36 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to innovate by Jonas Kjellberg</title>
+      <link>http://localhost:1313/2018/05/13/how-to-innovate/</link>
+      <pubDate>Sun, 13 May 2018 00:49:36 +0000</pubDate>
+      <guid>http://localhost:1313/2018/05/13/how-to-innovate/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://play.radiopublic.com/the-tony-robbins-podcast-WDJ5v8/ep/s1!d495fa28c225c93b1971e86ad62d2c4c754e115c&#34;&gt;In this podcast&lt;/a&gt;, Jonas Kjellberg, the co-creator of Skype, gives few tips to entrepreneurs on how to think about running a business and how to innovate.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Thinking in Zeroes:&lt;/strong&gt; One of his focus is to challenge the cost side. Running a business is costly and often in business leadership, cost reduction means laying off employees or moving business operations and development to a low-cost location. Skype was a challenge to Telcos and Jonas used this thinking to his advantage. What could he do which the telcos could not? Skype used the internet which was already paid for by the customer which brings the cost of laying out infrastructure to 0. Telcos use switches for routing. Skype used the CPU power to do the same. Again the cost is 0. They used idle computers to route the calls to reduce cost.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

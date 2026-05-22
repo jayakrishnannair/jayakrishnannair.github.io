@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Dec 2021 21:05:30 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOLVED: Sonos Orbi WiFi Issues</title>
+      <link>http://localhost:1313/posts/2021-12-20-sonos-orbi/</link>
+      <pubDate>Tue, 21 Dec 2021 21:05:30 -0800</pubDate>
+      <guid>http://localhost:1313/posts/2021-12-20-sonos-orbi/</guid>
+      <description>&lt;p&gt;When I tried to add a Sonos Beam Gen 2 to my home network, which consists of a Orbi mesh with one receiver and multiple satellites, I ran into few issues. There are others who have run into &lt;a href=&#34;https://community.netgear.com/t5/Orbi/Sonos-can-t-connect-to-Orbi/td-p/1695787&#34;&gt;similar issues&lt;/a&gt; trying to battle 2.4 Ghz and passwords.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Sonos would not connect to my default network (5.0 Ghz) and it could only connect to a 2.4 Ghz network. So I enabled a guest network with 2.4 Ghz and the Beam connected. Once the connection was done, the app mentioned that the Beam was not configured properly. It would show the Beam in the app, but you cannot do much with it. The main problem was that my phone was on the default home network (5.0 Ghz) while the Beam was on 2.4 Ghz.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Book Review: The Phoenix Project</title>
+      <link>http://localhost:1313/posts/2020-12-31-phoenix-project/</link>
+      <pubDate>Fri, 25 Dec 2020 18:41:27 -0800</pubDate>
+      <guid>http://localhost:1313/posts/2020-12-31-phoenix-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cracking the Coding Interview with Deliberate Practice</title>
+      <link>http://localhost:1313/posts/2020-07-01-cracking-the-coding-interview-with-deliberate-practice/</link>
+      <pubDate>Wed, 01 Jul 2020 19:24:06 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-07-01-cracking-the-coding-interview-with-deliberate-practice/</guid>
+      <description>&lt;p class=&#34;has-drop-cap&#34;&gt;
+  Imagine you are at a technical phone screen, the first step in the interview pipeline. After the initial chit chat, the interviewer presents the coding challenge which looks like this.
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining&lt;/em&gt;.&lt;figure class=&#34;wp-block-image size-large&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i2.wp.com/shooonya-photos-1.s3.amazonaws.com/rainwater.png?ssl=1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;One of the first things you should do in interviews is ask clarifying questions. The first question would be, are you a water management company or a software company? Once the futility has been confirmed, you will ponder about the algorithm. Should I sort? Should I use a stack? Should I use a Priority Queue? Should I jump out of the window?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stoicism in the times of COVID-19</title>
+      <link>http://localhost:1313/posts/2020-06-18-stoicism-in-the-times-of-covid-19/</link>
+      <pubDate>Thu, 18 Jun 2020 04:42:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2020-06-18-stoicism-in-the-times-of-covid-19/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Dilbert (using under fair use)&#34; loading=&#34;lazy&#34; src=&#34;https://i0.wp.com/shooonya-photos-1.s3.amazonaws.com/dilbert-layoff.png?ssl=1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It would be an understatement to say obstacles are all around for people who got affected by COVID-19, for businesses that got impacted, and for people who got laid off in a &lt;a href=&#34;https://www.forbes.com/sites/jackkelly/2020/05/13/uber-lays-off-3500-employees-over-a-zoom-call-the-way-in-which-a-company-downsizes-its-staff-says-a-lot-about-the-organization/#67faf8867251&#34;&gt;3 minute Zoom call&lt;/a&gt; or an &lt;a href=&#34;https://www.businessinsider.com/laid-off-lyft-employees-describe-how-the-process-was-handled-2020-5&#34;&gt;e-mail in the morning&lt;/a&gt;. What do you do when the black swan event of the century turns a normal day into a day where you wonder about how you are going to survive this crisis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Book Review: Digital Minimalism by Cal Newport</title>
+      <link>http://localhost:1313/posts/2019-03-07-book-review-digital-minimalism-by-cal-newport/</link>
+      <pubDate>Thu, 07 Mar 2019 11:34:37 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2019-03-07-book-review-digital-minimalism-by-cal-newport/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Digital Minimalism&#34; loading=&#34;lazy&#34; src=&#34;https://d2sa5t9ngheghz.cloudfront.net/digital-minimalism.png#float&#34;&gt;Every day I have an hour commute by BART – San Francisco Bay Area’s delightful transit system. When you are waiting for the train, there is a sight that will grab your attention every single day. Everyone is on the phone, mindlessly swiping gems on a game, binge-watching Netflix, and catching up with the latest on their favorite social media outlet. Caught up in their screens, it is fun to see people miss their stations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Handling Docker Login Errors</title>
+      <link>http://localhost:1313/posts/2018-12-23-fix-for-docker-unauthorized-incorrect-username-or-password/</link>
+      <pubDate>Sun, 23 Dec 2018 05:20:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018-12-23-fix-for-docker-unauthorized-incorrect-username-or-password/</guid>
+      <description>&lt;p&gt;If you have installed Docker for the first time, it is better to verify the install with the command&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker run hello-world
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i1.wp.com/d2sa5t9ngheghz.cloudfront.net/docker-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;When you ran that command and got the error “unauthorized: incorrect username or password”, read on. &lt;strong&gt;Most likely you would have entered your Docker hub e-mail and password.&lt;/strong&gt; Big mistake.&lt;/p&gt;
+&lt;p&gt;The instruction says that you should &lt;g class=&#34;gr_ gr\_7 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling multiReplace&#34; id=&#34;7&#34; data-gr-id=&#34;7&#34;&gt;login&lt;/g&gt; with your Docker ID. &lt;strong&gt;This Docker ID is not your e-mail&lt;/strong&gt;. For &lt;g class=&#34;gr_ gr\_6 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Punctuation only-ins replaceWithoutSep&#34; id=&#34;6&#34; data-gr-id=&#34;6&#34;&gt;that&lt;/g&gt; you need to login to Docker Hub with your e-mail and go to the Profile page. There you can find your Docker ID.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Top 10 Tips from re:Invent 2018</title>
+      <link>http://localhost:1313/2018/12/02/top-10-tips-from-reinvent-2018/</link>
+      <pubDate>Sun, 02 Dec 2018 05:07:37 +0000</pubDate>
+      <guid>http://localhost:1313/2018/12/02/top-10-tips-from-reinvent-2018/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;reInvent&#34; loading=&#34;lazy&#34; src=&#34;https://i1.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-1.JPG?resize=1251%2C686&#34;&gt;&lt;/p&gt;
+&lt;p&gt;re:Invent was a huge conference with many venues and over 60,000 attendees. If you don’t plan properly, you will end up sitting in various shuttles, traveling up and down the strip. Here are some tips from my experience.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Book your ticket early. The popular sessions fill up quickly and you will end up on the waiting list for most of them.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;    When the re:Invent planner says that the next venue is 30 minutes away, trust that. I walk fast, I run. Still it is hard to get from one venue to another in time. This has nothing to do with your walking speed. The convention centers are deep inside a casino and you will spend 10 minutes, just to get to the shuttle bus. Then another 10 &amp;amp;#8211; 20 minutes on the shuttle and another 10 minutes for walking. So plan accordingly.
+  
+  
+  ![](https://i2.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-2.JPG?resize=1253%2C705)
+  
+  &amp;lt;p&amp;gt;
+    If you are on the waiting list and reach late, the chances of getting in are slim.
+  &amp;lt;/p&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Pick your badge from the airport. This is very convenient. Also you have one less thing to worry about.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://i1.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-5.JPG?resize=1054%2C593&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to innovate by Jonas Kjellberg</title>
+      <link>http://localhost:1313/2018/05/13/how-to-innovate/</link>
+      <pubDate>Sun, 13 May 2018 00:49:36 +0000</pubDate>
+      <guid>http://localhost:1313/2018/05/13/how-to-innovate/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://play.radiopublic.com/the-tony-robbins-podcast-WDJ5v8/ep/s1!d495fa28c225c93b1971e86ad62d2c4c754e115c&#34;&gt;In this podcast&lt;/a&gt;, Jonas Kjellberg, the co-creator of Skype, gives few tips to entrepreneurs on how to think about running a business and how to innovate.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Thinking in Zeroes:&lt;/strong&gt; One of his focus is to challenge the cost side. Running a business is costly and often in business leadership, cost reduction means laying off employees or moving business operations and development to a low-cost location. Skype was a challenge to Telcos and Jonas used this thinking to his advantage. What could he do which the telcos could not? Skype used the internet which was already paid for by the customer which brings the cost of laying out infrastructure to 0. Telcos use switches for routing. Skype used the CPU power to do the same. Again the cost is 0. They used idle computers to route the calls to reduce cost.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deliberate Lifelong Learning</title>
+      <link>http://localhost:1313/2017/07/31/deliberate-lifelong-learning/</link>
+      <pubDate>Mon, 31 Jul 2017 02:33:25 +0000</pubDate>
+      <guid>http://localhost:1313/2017/07/31/deliberate-lifelong-learning/</guid>
+      <description>&lt;p&gt;In an interview on the &lt;a href=&#34;https://blogs.nvidia.com/blog/2017/07/26/ai-podcast-andrew-ng-new-electricity/&#34;&gt;AI Podcast,&lt;/a&gt;  Andrew Ng predicts that AI would be an essential part of our lives and it is going to transform the world, the way electricity did. A consequence of that is not that Skynet would activate, but many of the existing jobs would disappear. To survive, lifelong learning would become essential. Previously, we could learn something in college and ply trade based on that knowledge for decades. Now we will have to replenish that knowledge constantly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Best Way to Become an Expert</title>
+      <link>http://localhost:1313/2017/07/01/the-best-way-to-become-an-expert/</link>
+      <pubDate>Sat, 01 Jul 2017 20:43:32 +0000</pubDate>
+      <guid>http://localhost:1313/2017/07/01/the-best-way-to-become-an-expert/</guid>
+      <description>&lt;p&gt;In June 2017, Alex Honnold did something which no man had done before. He climbed El Capitan in Yosemite without any ropes. This free solo ascent of the 3000 ft rock formation without any fallback mechanism ranks as one of the greatest athletic feats ever. &lt;a href=&#34;https://www.nytimes.com/2017/06/09/opinion/el-capitan-my-el-capitan.html?_r=1&#34;&gt;Equally interesting is the way Alex Honnold trained&lt;/a&gt;. He did 60 practice climbs on El Capitan. First, he rehearsed these climbs using rope. He memorized complex portions of the climb. He specifically trained on the tricky portions of the segments by going up there and with gear and practicing over and over. In the final weeks before the climb, he practiced on a smooth stretch of rock, climbing with only his feet and not using his hands. Thus what looked like a miracle was the result of a well-planned training.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Two ways to run a large company with agility</title>
+      <link>http://localhost:1313/2017/04/16/howto-run-large-company-agility/</link>
+      <pubDate>Sun, 16 Apr 2017 03:19:47 +0000</pubDate>
+      <guid>http://localhost:1313/2017/04/16/howto-run-large-company-agility/</guid>
+      <description>&lt;p&gt;Large companies stagnate with innovation and startups steal their thunder. One root cause is that the decision making is not agile any more. No one wants to do anything to upset the brand. Projects are green lit with caution. The decision making is punted up the chain.
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;So how does Amazon’s CEO manage to keep his company agile? By making high-velocity decisions since “Speed matters in business”. Seems self evident, but lot of companies seem to forget this. For light-weight things, don’t sweat too much as the decisions are reversible. Also, you don’t have to wait for 100% of the information. Get going with 70% of the information.
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Innovation in Large Companies</title>
+      <link>http://localhost:1313/2017/03/27/innovation-large-companies/</link>
+      <pubDate>Mon, 27 Mar 2017 04:09:56 +0000</pubDate>
+      <guid>http://localhost:1313/2017/03/27/innovation-large-companies/</guid>
+      <description>&lt;p&gt;Right now Artificial Intelligence and Machine Learning are hot topics. Who is better suited to do work in that area? Large companies or startups? Large companies, because they have huge data set or startups because they can innovate faster even though they lack the data that large companies do? For example, Google has huge data set in GMail, so can a startup compete in that space with limited data set? One of the &lt;a href=&#34;https://soundcloud.com/a16z/machine-learning-startups-data-saas&#34;&gt;recent a16z podcasts&lt;/a&gt; deals with this topic and during the conversation an interesting point regarding innovation in large companies was mentioned. That was something I experienced in a previous startup and is worth expanding.
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doing Deep Work – 1</title>
+      <link>http://localhost:1313/2017/03/15/doing-deep-work-1/</link>
+      <pubDate>Wed, 15 Mar 2017 05:03:28 +0000</pubDate>
+      <guid>http://localhost:1313/2017/03/15/doing-deep-work-1/</guid>
+      <description>&lt;p&gt;Doing deep work requires focus. You have to be free of distractions and have to be wise enough not to drown yourself in mindless web surfing. You should not end up as a slave to an attention grabbing algorithm run by a social media company.
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&#34;https://itunes.apple.com/us/podcast/the-ezra-klein-show/id1081584611&#34;&gt;Ezra Klein podcast&lt;/a&gt;,Yuval Noah Harari, the author of &lt;em&gt;&lt;a href=&#34;http://amzn.to/2mYeraO&#34;&gt;Sapiens&lt;/a&gt;&lt;/em&gt;,&lt;a href=&#34;http://www.vox.com/2017/2/28/14745596/yuval-harari-sapiens-interview-meditation-ezra-klein&#34;&gt; talks about his technique for overcoming distraction&lt;/a&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I try to set my own agenda and not to allow technology to set the agenda for me. I tend to read books, long books, rather than short passages or tweets. I think another thing that has happened over the last century is that we have moved from an information scarcity to a deluge of information. Previously the main problem with information for people was that they didn’t have enough of it, and there was censorship, and information was very rare and hard to obtain. Now it’s just the opposite. We are inundated by immense amounts of information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to make better decisions in meetings</title>
+      <link>http://localhost:1313/2017/03/12/how-to-make-better-decisions-in-meetings/</link>
+      <pubDate>Sun, 12 Mar 2017 19:20:10 +0000</pubDate>
+      <guid>http://localhost:1313/2017/03/12/how-to-make-better-decisions-in-meetings/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B015VACHOK&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=varnamblog-20#float&#34;&gt;In the book, &lt;em&gt;High output management&lt;/em&gt;, Andy Grove, Intel co-founder, makes a significant observation regarding meetings. Let me frame it in the context of something that we encounter regularly in planning meetings. There are two projects, both of which can bring in revenue and a decision has to be made. To pick an example from the book, we could&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;build a manufacturing plant next to an existing one&lt;/li&gt;
+&lt;li&gt;build another larger one far away.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;What do we do?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tools of Titans by Tim Ferriss</title>
+      <link>http://localhost:1313/2017/01/07/tools-of-titans-by-tim-ferriss/</link>
+      <pubDate>Sat, 07 Jan 2017 00:35:39 +0000</pubDate>
+      <guid>http://localhost:1313/2017/01/07/tools-of-titans-by-tim-ferriss/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Tools of the Titans&#34; loading=&#34;lazy&#34; src=&#34;https://d2sa5t9ngheghz.cloudfront.net/tools-titans.png#float&#34;&gt;
+&lt;span class=&#34;name&#34;&gt;Our lives have been conditioned by our upbringing and past experience and as we age, it is hard to change. This can be illustrated by this story in the book&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This is a story about a tiger named Mohini that was in captivity in a zoo, who was rescued from an animal sanctuary. Mohini had been confined to a 10-by-10-foot cage with a concrete floor for 5 or 10 years. They finally released her into this big pasture: With excitement and anticipation, they released Mohini into her new and expensive environment, but it was too late. The tiger immediately sought refuge in a corner of the compound, where she lived for the remainder of her life. She paced and paced in that corner until an area 10-by-10 feet was worn bare of grass&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Swift: let</title>
+      <link>http://localhost:1313/2016/08/29/understanding-swift-let/</link>
+      <pubDate>Mon, 29 Aug 2016 17:50:48 +0000</pubDate>
+      <guid>http://localhost:1313/2016/08/29/understanding-swift-let/</guid>
+      <description>&lt;p&gt;Here is the handler code for a slider in XCode 7&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@IBAction func handleSlider(sender: UISlider) {
+    var value = sender.value
+    print(&amp;quot;value \(value) &amp;quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you type in this code, XCode will issue the following warning near the declaration of the &lt;em&gt;var value&lt;/em&gt;, &lt;em&gt;Variable ‘value’ was never mutated; consider changing to ‘let’ constant.&lt;/em&gt; Once you choose that option, the code changes to this and the warning disappears.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@IBAction func handleSlider(sender: UISlider) {
+    let value = sender.value
+    print(&amp;quot;value \(value) &amp;quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Using &lt;em&gt;let&lt;/em&gt; instead of &lt;em&gt;var&lt;/em&gt; conveys that the variable is immutable. The value is set once and never changed. If you are reading someone else’s code and encounter &lt;em&gt;let&lt;/em&gt;, you can be assured that the value of this variable is not changing in the code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to export highlights from Kindle Fire</title>
+      <link>http://localhost:1313/2015/08/22/how-to-export-highlights-from-kindle-fire/</link>
+      <pubDate>Sat, 22 Aug 2015 14:42:15 +0000</pubDate>
+      <guid>http://localhost:1313/2015/08/22/how-to-export-highlights-from-kindle-fire/</guid>
+      <description>&lt;p&gt;If you highlight the books you read on a Kindle Paperwhite and would like to extract them as text into your word processor or OneNote, then there is a simple way. Use &lt;a href=&#34;https://clippings.io&#34;&gt;clippings.io&lt;/a&gt;. This simple web application reads the clippings text file on the Paperwhite and neatly organizes the notes.&lt;/p&gt;
+&lt;p&gt;But if you are making your highlights on a Kindle Fire, then &lt;a href=&#34;https://www.clippings.io/home/kindle-clippings-faqs&#34;&gt;there is no text file to import&lt;/a&gt;. The highlights are stored inside the &lt;a href=&#34;http://www.epubor.com/how-to-export-kindle-fire-highlights-with-evernote.html&#34;&gt;mbp file&lt;/a&gt; and it is not easy to extract the highlights. &lt;a href=&#34;https://kindle.amazon.com/your_highlights&#34;&gt;Amazon has a page&lt;/a&gt; which shows your highlights, but it is not user-friendly, especially if  if you are a book reviewer, who has hundreds of highlights.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>9 Tips For Engineers For Learning Efficiently</title>
+      <link>http://localhost:1313/2015/08/15/9-tips-for-engineers-for-learning-efficiently/</link>
+      <pubDate>Sat, 15 Aug 2015 04:20:11 +0000</pubDate>
+      <guid>http://localhost:1313/2015/08/15/9-tips-for-engineers-for-learning-efficiently/</guid>
+      <description>&lt;p&gt;In our software engineering careers, we switch jobs and end up working in a new domain. Some domains are easy to learn — the engineering might be hard — while others, especially those involving payments or stock exchanges (few areas where I have worked) take time to understand. There is another issue as you progress in your career: when you are fresh out of college, the brain is tuned to learning techniques, but after a few decades of work, you struggle. There is no need to despair. Recently, I took the UCSD course &lt;em&gt;&lt;a href=&#34;https://www.coursera.org/learn/learning-how-to-learn/home/info&#34;&gt;Learning How to Learn: Powerful mental tools to help you master tough subjects&lt;/a&gt;&lt;/em&gt; and learned some valuable lessons.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notes from Velocity 2014</title>
+      <link>http://localhost:1313/2014/08/02/notes-velocity-2014/</link>
+      <pubDate>Sat, 02 Aug 2014 05:59:52 +0000</pubDate>
+      <guid>http://localhost:1313/2014/08/02/notes-velocity-2014/</guid>
+      <description>&lt;p&gt;I attended the &lt;a href=&#34;http://velocityconf.com/velocity2014&#34;&gt;Velocity Conference&lt;/a&gt; in Santa Clara this year and these are few of the takeaways. If an image could summarize the conference, it would be this image from &lt;a href=&#34;http://www.hanselman.com/&#34;&gt;Scott Hanselman&lt;/a&gt;’s Keynote address, &lt;a href=&#34;https://www.youtube.com/watch?v=FZYrlKbkLe8&#34;&gt;&lt;em&gt;Virtual Machines, JavaScript and Assembler&lt;/em&gt;&lt;/a&gt; which was the most entertaining keynote I have ever heard.&lt;figure id=&#34;attachment_4&#34; aria-describedby=&#34;caption-attachment-4&#34; style=&#34;width: 500px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/p&gt;
+&lt;p&gt;There were three main takeaways for me: APM is huge; everyone is into optimizing images and the CDNs are getting smarter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/jayakrishnanbnair/&#34;&gt;Jayakrishnan Nair&lt;/a&gt; is an engineer who works on large scale distributed systems. The opinions expressed here are my own and do not represent my employer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/bookshelf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bookshelf/</guid>
+      <description>&lt;h1 id=&#34;book-shelf&#34;&gt;Book Shelf&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#book-shelf&#34;&gt;Book Shelf&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#productivity&#34;&gt;Productivity&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#peak-by-anders-ericsson-and-robert-pool&#34;&gt;Peak by Anders Ericsson and Robert Pool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tools-of-titans-by-tim-ferris&#34;&gt;Tools of Titans by Tim Ferris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#digital-minimalism-by-cal-newport&#34;&gt;Digital Minimalism by Cal Newport&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#philosophy&#34;&gt;Philosophy&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#obstacle-is-the-way-by-ryan-holiday&#34;&gt;Obstacle is the Way by Ryan Holiday&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are books I have read and recommend.&lt;/p&gt;
+&lt;h2 id=&#34;productivity&#34;&gt;Productivity&lt;/h2&gt;
+&lt;h3 id=&#34;peak-by-anders-ericsson-and-robert-pool&#34;&gt;Peak by Anders Ericsson and Robert Pool&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.shooonya.org/2020/07/cracking-the-coding-interview-with-deliberate-practice/&#34;&gt;&lt;img alt=&#34;Peak&#34; loading=&#34;lazy&#34; src=&#34;https://i0.wp.com/shooonya-photos-1.s3.amazonaws.com/peak.png?ssl=1#float&#34;&gt;&lt;/a&gt; Forget Malcolm Gladwell&amp;rsquo;s 10,000 hour rule. This book corrects Gladwell and introduces the concept of deliberate practice. Deliberate practice has several characteristics that set it apart from “naive practice,” which is just doing something repeatedly, expecting that the repetition alone will improve one’s performance. Deliberate practice pushes you out of your comfort zone. It also involves feedback. This could come from a teacher or coach or it could come from your experience to monitor and improve. For example, in the trapping the rainwater, if you did not use a two-pointer solution, but a Priority Queue, then you would use that observation as feedback to analyze and improve.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/test/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Docker Windows 10 Port Mapping</title>
+      <link>http://localhost:1313/posts/2018-12-31-docker-windows-10-port-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018-12-31-docker-windows-10-port-mapping/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;FROM node:alpine
+COPY ./ ./
+RUN npm install
+CMD [&amp;quot;npm&amp;quot;, &amp;quot;start&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If this is your Dockerfile and your node app starts at port 8080, then logically you would think that typing&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://localhost:8080
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;would give you access to the application. This works fine on OSX, but on a Windows 10 machine using Docker Toolkit, you will get an error message which says, that the browser can’t establish a connection to the server at localhost:8080.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

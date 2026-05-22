@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Uncategorized on My Blog</title>
+    <link>http://localhost:1313/categories/uncategorized/</link>
+    <description>Recent content in Uncategorized on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2017 05:03:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doing Deep Work – 1</title>
+      <link>http://localhost:1313/2017/03/15/doing-deep-work-1/</link>
+      <pubDate>Wed, 15 Mar 2017 05:03:28 +0000</pubDate>
+      <guid>http://localhost:1313/2017/03/15/doing-deep-work-1/</guid>
+      <description>&lt;p&gt;Doing deep work requires focus. You have to be free of distractions and have to be wise enough not to drown yourself in mindless web surfing. You should not end up as a slave to an attention grabbing algorithm run by a social media company.
+&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&#34;https://itunes.apple.com/us/podcast/the-ezra-klein-show/id1081584611&#34;&gt;Ezra Klein podcast&lt;/a&gt;,Yuval Noah Harari, the author of &lt;em&gt;&lt;a href=&#34;http://amzn.to/2mYeraO&#34;&gt;Sapiens&lt;/a&gt;&lt;/em&gt;,&lt;a href=&#34;http://www.vox.com/2017/2/28/14745596/yuval-harari-sapiens-interview-meditation-ezra-klein&#34;&gt; talks about his technique for overcoming distraction&lt;/a&gt;
+&lt;/p&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I try to set my own agenda and not to allow technology to set the agenda for me. I tend to read books, long books, rather than short passages or tweets. I think another thing that has happened over the last century is that we have moved from an information scarcity to a deluge of information. Previously the main problem with information for people was that they didn’t have enough of it, and there was censorship, and information was very rare and hard to obtain. Now it’s just the opposite. We are inundated by immense amounts of information.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

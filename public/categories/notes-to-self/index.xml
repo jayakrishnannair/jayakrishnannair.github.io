@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes to Self on My Blog</title>
+    <link>http://localhost:1313/categories/notes-to-self/</link>
+    <description>Recent content in Notes to Self on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Dec 2018 05:20:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/notes-to-self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handling Docker Login Errors</title>
+      <link>http://localhost:1313/posts/2018-12-23-fix-for-docker-unauthorized-incorrect-username-or-password/</link>
+      <pubDate>Sun, 23 Dec 2018 05:20:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018-12-23-fix-for-docker-unauthorized-incorrect-username-or-password/</guid>
+      <description>&lt;p&gt;If you have installed Docker for the first time, it is better to verify the install with the command&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker run hello-world
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i1.wp.com/d2sa5t9ngheghz.cloudfront.net/docker-1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;When you ran that command and got the error “unauthorized: incorrect username or password”, read on. &lt;strong&gt;Most likely you would have entered your Docker hub e-mail and password.&lt;/strong&gt; Big mistake.&lt;/p&gt;
+&lt;p&gt;The instruction says that you should &lt;g class=&#34;gr_ gr\_7 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling multiReplace&#34; id=&#34;7&#34; data-gr-id=&#34;7&#34;&gt;login&lt;/g&gt; with your Docker ID. &lt;strong&gt;This Docker ID is not your e-mail&lt;/strong&gt;. For &lt;g class=&#34;gr_ gr\_6 gr-alert gr\_gramm gr\_inline\_cards gr\_run\_anim Punctuation only-ins replaceWithoutSep&#34; id=&#34;6&#34; data-gr-id=&#34;6&#34;&gt;that&lt;/g&gt; you need to login to Docker Hub with your e-mail and go to the Profile page. There you can find your Docker ID.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deliberate Lifelong Learning</title>
+      <link>http://localhost:1313/2017/07/31/deliberate-lifelong-learning/</link>
+      <pubDate>Mon, 31 Jul 2017 02:33:25 +0000</pubDate>
+      <guid>http://localhost:1313/2017/07/31/deliberate-lifelong-learning/</guid>
+      <description>&lt;p&gt;In an interview on the &lt;a href=&#34;https://blogs.nvidia.com/blog/2017/07/26/ai-podcast-andrew-ng-new-electricity/&#34;&gt;AI Podcast,&lt;/a&gt;  Andrew Ng predicts that AI would be an essential part of our lives and it is going to transform the world, the way electricity did. A consequence of that is not that Skynet would activate, but many of the existing jobs would disappear. To survive, lifelong learning would become essential. Previously, we could learn something in college and ply trade based on that knowledge for decades. Now we will have to replenish that knowledge constantly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Swift: let</title>
+      <link>http://localhost:1313/2016/08/29/understanding-swift-let/</link>
+      <pubDate>Mon, 29 Aug 2016 17:50:48 +0000</pubDate>
+      <guid>http://localhost:1313/2016/08/29/understanding-swift-let/</guid>
+      <description>&lt;p&gt;Here is the handler code for a slider in XCode 7&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@IBAction func handleSlider(sender: UISlider) {
+    var value = sender.value
+    print(&amp;quot;value \(value) &amp;quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you type in this code, XCode will issue the following warning near the declaration of the &lt;em&gt;var value&lt;/em&gt;, &lt;em&gt;Variable ‘value’ was never mutated; consider changing to ‘let’ constant.&lt;/em&gt; Once you choose that option, the code changes to this and the warning disappears.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;@IBAction func handleSlider(sender: UISlider) {
+    let value = sender.value
+    print(&amp;quot;value \(value) &amp;quot;)
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Using &lt;em&gt;let&lt;/em&gt; instead of &lt;em&gt;var&lt;/em&gt; conveys that the variable is immutable. The value is set once and never changed. If you are reading someone else’s code and encounter &lt;em&gt;let&lt;/em&gt;, you can be assured that the value of this variable is not changing in the code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to export highlights from Kindle Fire</title>
+      <link>http://localhost:1313/2015/08/22/how-to-export-highlights-from-kindle-fire/</link>
+      <pubDate>Sat, 22 Aug 2015 14:42:15 +0000</pubDate>
+      <guid>http://localhost:1313/2015/08/22/how-to-export-highlights-from-kindle-fire/</guid>
+      <description>&lt;p&gt;If you highlight the books you read on a Kindle Paperwhite and would like to extract them as text into your word processor or OneNote, then there is a simple way. Use &lt;a href=&#34;https://clippings.io&#34;&gt;clippings.io&lt;/a&gt;. This simple web application reads the clippings text file on the Paperwhite and neatly organizes the notes.&lt;/p&gt;
+&lt;p&gt;But if you are making your highlights on a Kindle Fire, then &lt;a href=&#34;https://www.clippings.io/home/kindle-clippings-faqs&#34;&gt;there is no text file to import&lt;/a&gt;. The highlights are stored inside the &lt;a href=&#34;http://www.epubor.com/how-to-export-kindle-fire-highlights-with-evernote.html&#34;&gt;mbp file&lt;/a&gt; and it is not easy to extract the highlights. &lt;a href=&#34;https://kindle.amazon.com/your_highlights&#34;&gt;Amazon has a page&lt;/a&gt; which shows your highlights, but it is not user-friendly, especially if  if you are a book reviewer, who has hundreds of highlights.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Docker Windows 10 Port Mapping</title>
+      <link>http://localhost:1313/posts/2018-12-31-docker-windows-10-port-mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2018-12-31-docker-windows-10-port-mapping/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;FROM node:alpine
+COPY ./ ./
+RUN npm install
+CMD [&amp;quot;npm&amp;quot;, &amp;quot;start&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If this is your Dockerfile and your node app starts at port 8080, then logically you would think that typing&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;http://localhost:8080
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;would give you access to the application. This works fine on OSX, but on a Windows 10 machine using Docker Toolkit, you will get an error message which says, that the browser can’t establish a connection to the server at localhost:8080.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
