@@ -1,31 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Swift on My Blog</title>
-    <link>http://localhost:1313/categories/swift/</link>
-    <description>Recent content in Swift on My Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Aug 2016 17:50:48 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/swift/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Understanding Swift: let</title>
-      <link>http://localhost:1313/2016/08/29/understanding-swift-let/</link>
-      <pubDate>Mon, 29 Aug 2016 17:50:48 +0000</pubDate>
-      <guid>http://localhost:1313/2016/08/29/understanding-swift-let/</guid>
-      <description>&lt;p&gt;Here is the handler code for a slider in XCode 7&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Swift on My Blog</title><link>https://jayakrishnannair.github.io/categories/swift/</link><description>Recent content in Swift on My Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2016 17:50:48 +0000</lastBuildDate><atom:link href="https://jayakrishnannair.github.io/categories/swift/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding Swift: let</title><link>https://jayakrishnannair.github.io/2016/08/29/understanding-swift-let/</link><pubDate>Mon, 29 Aug 2016 17:50:48 +0000</pubDate><guid>https://jayakrishnannair.github.io/2016/08/29/understanding-swift-let/</guid><description>&lt;p&gt;Here is the handler code for a slider in XCode 7&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;@IBAction func handleSlider(sender: UISlider) {
-    var value = sender.value
-    print(&amp;quot;value \(value) &amp;quot;)
+var value = sender.value
+print(&amp;quot;value \(value) &amp;quot;)
 }
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;If you type in this code, XCode will issue the following warning near the declaration of the &lt;em&gt;var value&lt;/em&gt;, &lt;em&gt;Variable ‘value’ was never mutated; consider changing to ‘let’ constant.&lt;/em&gt; Once you choose that option, the code changes to this and the warning disappears.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;@IBAction func handleSlider(sender: UISlider) {
-    let value = sender.value
-    print(&amp;quot;value \(value) &amp;quot;)
+let value = sender.value
+print(&amp;quot;value \(value) &amp;quot;)
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Using &lt;em&gt;let&lt;/em&gt; instead of &lt;em&gt;var&lt;/em&gt; conveys that the variable is immutable. The value is set once and never changed. If you are reading someone else’s code and encounter &lt;em&gt;let&lt;/em&gt;, you can be assured that the value of this variable is not changing in the code.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;Using &lt;em&gt;let&lt;/em&gt; instead of &lt;em&gt;var&lt;/em&gt; conveys that the variable is immutable. The value is set once and never changed. If you are reading someone else’s code and encounter &lt;em&gt;let&lt;/em&gt;, you can be assured that the value of this variable is not changing in the code.&lt;/p&gt;</description></item></channel></rss>

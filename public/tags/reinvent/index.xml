@@ -1,37 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Re:Invent on My Blog</title>
-    <link>http://localhost:1313/tags/reinvent/</link>
-    <description>Recent content in Re:Invent on My Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 02 Dec 2018 05:07:37 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/reinvent/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Top 10 Tips from re:Invent 2018</title>
-      <link>http://localhost:1313/2018/12/02/top-10-tips-from-reinvent-2018/</link>
-      <pubDate>Sun, 02 Dec 2018 05:07:37 +0000</pubDate>
-      <guid>http://localhost:1313/2018/12/02/top-10-tips-from-reinvent-2018/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;reInvent&#34; loading=&#34;lazy&#34; src=&#34;https://i1.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-1.JPG?resize=1251%2C686&#34;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Re:Invent on My Blog</title><link>https://jayakrishnannair.github.io/tags/reinvent/</link><description>Recent content in Re:Invent on My Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 02 Dec 2018 05:07:37 +0000</lastBuildDate><atom:link href="https://jayakrishnannair.github.io/tags/reinvent/index.xml" rel="self" type="application/rss+xml"/><item><title>Top 10 Tips from re:Invent 2018</title><link>https://jayakrishnannair.github.io/2018/12/02/top-10-tips-from-reinvent-2018/</link><pubDate>Sun, 02 Dec 2018 05:07:37 +0000</pubDate><guid>https://jayakrishnannair.github.io/2018/12/02/top-10-tips-from-reinvent-2018/</guid><description>&lt;p&gt;&lt;img alt="reInvent" loading="lazy" src="https://i1.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-1.JPG?resize=1251%2C686"&gt;&lt;/p&gt;
 &lt;p&gt;re:Invent was a huge conference with many venues and over 60,000 attendees. If you don’t plan properly, you will end up sitting in various shuttles, traveling up and down the strip. Here are some tips from my experience.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Book your ticket early. The popular sessions fill up quickly and you will end up on the waiting list for most of them.&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;    When the re:Invent planner says that the next venue is 30 minutes away, trust that. I walk fast, I run. Still it is hard to get from one venue to another in time. This has nothing to do with your walking speed. The convention centers are deep inside a casino and you will spend 10 minutes, just to get to the shuttle bus. Then another 10 &amp;amp;#8211; 20 minutes on the shuttle and another 10 minutes for walking. So plan accordingly.
-  
-  
-  ![](https://i2.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-2.JPG?resize=1253%2C705)
-  
-  &amp;lt;p&amp;gt;
-    If you are on the waiting list and reach late, the chances of getting in are slim.
-  &amp;lt;/p&amp;gt;
+&lt;pre&gt;&lt;code&gt; When the re:Invent planner says that the next venue is 30 minutes away, trust that. I walk fast, I run. Still it is hard to get from one venue to another in time. This has nothing to do with your walking speed. The convention centers are deep inside a casino and you will spend 10 minutes, just to get to the shuttle bus. Then another 10 &amp;amp;#8211; 20 minutes on the shuttle and another 10 minutes for walking. So plan accordingly.
+![](https://i2.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-2.JPG?resize=1253%2C705)
+&amp;lt;p&amp;gt;
+If you are on the waiting list and reach late, the chances of getting in are slim.
+&amp;lt;/p&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;ol start=&#34;3&#34;&gt;
+&lt;ol start="3"&gt;
 &lt;li&gt;
 &lt;p&gt;Pick your badge from the airport. This is very convenient. Also you have one less thing to worry about.
-&lt;img loading=&#34;lazy&#34; src=&#34;https://i1.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-5.JPG?resize=1054%2C593&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;img loading="lazy" src="https://i1.wp.com/shooonya-photos-1.s3.amazonaws.com/reinvent-5.JPG?resize=1054%2C593"&gt;&lt;/p&gt;</description></item></channel></rss>
