@@ -1,7 +1,11 @@
-baseURL = 'https://jayakrishnannair.github.io/'
+baseURL = 'https://shooonya.org/'
 languageCode = 'en-us'
-title = 'My Blog'
+title = 'Shooonya'
 theme = 'PaperMod'
+
+[params]
+  description = "Technology | Books | Photography"
+  subtitle = "Technology | Books | Photography"
 
 [markup]
   [markup.goldmark]
