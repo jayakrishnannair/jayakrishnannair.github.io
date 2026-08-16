@@ -4,7 +4,7 @@ date: 2026-05-22
 draft: false
 ---
 
-![](../../content/wp-content/uploads/2026-books.png)
+![](/wp-content/uploads/2026-books.png)
 
 ### Made to Stick: Why Some Ideas Survive and Others Die by Chip Heath and Dan Heath
 
