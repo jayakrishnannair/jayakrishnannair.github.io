@@ -5,7 +5,25 @@ theme = 'PaperMod'
 
 [params]
   description = "Technology | Books | Photography"
-  subtitle = "Technology | Books | Photography"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Shooonya"
+    Content = "Technology | Books | Photography"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/jayakrishnannair"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
 
 [markup]
   [markup.goldmark]
